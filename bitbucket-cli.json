@@ -13,8 +13,5 @@
       "hash": "e6822b2efba46a4377753c4fe2f5678d25bc25befb87a457a0ad446d7988b49d"
     }
   },
-  "bin": [
-    "bb.exe",
-    [ "bb.exe", "bb", "bb" ]
-  ]
+  "bin": "bb.exe"
 }

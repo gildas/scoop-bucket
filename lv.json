@@ -13,8 +13,5 @@
       "hash": "c55c989cdd400a04d64da232c80640d1c1fa82391752cec00dd0319da2cf29e0"
     }
   },
-  "bin": [
-    "lv.exe",
-    [ "lv.exe", "lv", "lv" ]
-  ]
+  "bin": "lv.exe"
 }
