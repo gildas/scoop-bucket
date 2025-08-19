@@ -1,7 +1,7 @@
 {
   "version": "0.3.2",
   "description": "lv is a logviewer for bunyan and pinojs logger",
-  "homepage": "https://github.com/gildas/gildas/lv",
+  "homepage": "https://github.com/gildas/lv",
   "license": "MIT License",
   "architecture": {
     "64bit": {
