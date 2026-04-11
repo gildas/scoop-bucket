@@ -14,6 +14,12 @@ Then you can install some scoops:
 scoop install <name>
 ```
 
+To update a scoop:
+
+```pwsh
+scoop update <name>
+```
+
 Formulas:
 
 - [bitbucket-cli](bitbucket-cli.json)  
