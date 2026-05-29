@@ -1,4 +1,4 @@
-# Genesyscsp Genesys-innovations
+# My Scoop Bucket
 
 ## How do I install these scoops?
 
