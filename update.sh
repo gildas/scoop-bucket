@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-for scoop in *.json; do
+for scoop in bucket/*.json; do
   scoop_folder=$(basename $scoop .json)
   scoop_name=$scoop_folder
   [[ $scoop_name == "lv" ]] && scoop_name="bunyan-logviewer"
