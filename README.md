@@ -24,6 +24,8 @@ Formulas:
 
 - [bitbucket-cli](bitbucket-cli.json)  
   `scoop install bitbucket-cli`
+- [gitflow-hooks](gitflow-hooks.json)  
+  `scoop install gitflow-hooks`
 - [lv](lv.json)  
   `scoop install lv`
 
