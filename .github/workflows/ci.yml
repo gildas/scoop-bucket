@@ -31,7 +31,7 @@ jobs:
           repository: ScoopInstaller/Scoop
           path: 'scoop_core'
       - name: Install and cache test dependencies
-        uses: potatoqualitee/psmodulecache@v6
+        uses: potatoqualitee/psmodulecache@v6.3
         with:
           modules-to-cache: BuildHelpers, Pester
           shell: ${{ matrix.shell }}
